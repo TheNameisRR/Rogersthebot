@@ -24,8 +24,8 @@ im a group manager bot.
 
 My Support Group @InFoTelGroup.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/Ruparagunath/Rogersthebot),
-you can create clone same like me..
+
+
 
 For more commands click /help...
 
